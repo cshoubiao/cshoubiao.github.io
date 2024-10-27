@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work Gamora is accepted by IEEE INFOCOM emoji! :sparkles: :smile:
+Our work EAVS is accepted by IEEE INFOCOM! :sparkles: :smile:
