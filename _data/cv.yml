@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Biao Hou
     - name: Date of Birth
-      value: 14th March 1879
+      value: Sept. 1995
     - name: Languages
-      value: English, German
+      value: Mandarin Chinese，English
 
 - title: Education
   type: time_table
