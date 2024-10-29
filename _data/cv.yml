@@ -14,17 +14,17 @@
   type: time_table
   contents:
     - title: Ph.D. Student
-      institution: Beijing Institute of Technology, China
+      institution: Beijing Institute of Technology, Beijing, China
       year: 2021 - Now
       description:
         - School of Computer Science and Technology
     - title: M.Sc.
-      institution: Inner Mongolia University, China
+      institution: Inner Mongolia University, Hohhot, China
       year: 2018 - 2021
       description:
         - School of Computer Science and Technology
     - title: B.Sc.
-      institution: Inner Mongolia University, China
+      institution: Inner Mongolia University, Hohhot, China
       year: 2014 - 2018
       description:
         - School of Computer Science and Technology
@@ -38,37 +38,30 @@
       description:
         - School of Computing
     
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - The Special Scholarship, Beijing Institute of Technology
+    - year: 2022
       items:
-        - Max Planck Medal
+        - The First Class Scholarship, Beijing Institute of Technology
+    - year: 2021
+      items:
+        - The First Class Scholarship, Beijing Institute of Technology
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Edge computing.
       items:
         - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Video streaming.
       items:
         - Description 1.
-        - Description 2.
 
-- title: Other Interests
+- title: Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Music, Basketball, etc.
