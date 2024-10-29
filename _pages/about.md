@@ -8,7 +8,7 @@ profile:
   image: Stu-Hou.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Ph.D. Student</p>
+    <p style="text-align: center;">Ph.D. Student</p>
     <p>Beijing Institute of Technology</p>
 
 news: true # includes a list of news items
