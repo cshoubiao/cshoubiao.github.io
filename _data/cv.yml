@@ -54,12 +54,14 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Edge computing.
+    - title: Edge computing
       items:
-        - Description 1.
-    - title: Video streaming.
+        - Edge AI
+        - Edge cloud systems for emerging multimedia experiences
+    - title: Video streaming
       items:
-        - Description 1.
+        - Video streaming and content delivery optimization
+        - Deep reinforcement learning for networked systems
 
 - title: Interests
   type: list
