@@ -8,35 +8,35 @@
     - name: Languages
       value: Mandarin Chinese，English
     - name: Email
-      value: houbiaoATbitDOTeduDOTcn
+      value: houbiaoATimuDOTeduDOTcn
 
 - title: Education
   type: time_table
   contents:
     - title: Ph.D. 
-      institution: Beijing Institute of Technology, Beijing, China
+      institution: Beijing Institute of Technology, China
       year: 2021 - 2025
       description:
         - School of Computer Science and Technology
     - title: M.Sc.
-      institution: Inner Mongolia University, Hohhot, China
+      institution: Inner Mongolia University, China
       year: 2018 - 2021
       description:
-        - School of Computer Science and Technology
+        - College of Computer Science
     - title: B.Sc.
-      institution: Inner Mongolia University, Hohhot, China
+      institution: Inner Mongolia University, China
       year: 2014 - 2018
       description:
-        - School of Computer Science and Technology
+        - College of Computer Science
 
 - title: Experience
   type: time_table
   contents:
-    - title:  Professor
-      institution: Inner Mongolia University
+    - title:  Research Fellow
+      institution: Inner Mongolia University, China
       year: 2025 - Now
       description:
-        - School of Computer Science and Technology
+        - College of Computer Science
     - title:  Visiting Student
       institution: National University of Singapore, Singapore
       year: 2024 - Now
@@ -46,6 +46,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - The First Class Scholarship, Beijing Institute of Technology
     - year: 2023
       items:
         - The Special Scholarship, Beijing Institute of Technology
